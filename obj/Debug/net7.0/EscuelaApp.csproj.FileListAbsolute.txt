@@ -1,0 +1,15 @@
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\bin\Debug\net7.0\EscuelaApp.exe
+c:\Users\CA3\Documents\Rodrigo 9A\elecciones\bin\Debug\net7.0\EscuelaApp.deps.json
+c:\Users\CA3\Documents\Rodrigo 9A\elecciones\bin\Debug\net7.0\EscuelaApp.runtimeconfig.json
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\bin\Debug\net7.0\EscuelaApp.dll
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\bin\Debug\net7.0\EscuelaApp.pdb
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.AssemblyInfo.cs
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.dll
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\refint\EscuelaApp.dll
+C:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.pdb
+c:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\EscuelaApp.genruntimeconfig.cache
+c:\Users\CA3\Documents\Rodrigo 9A\elecciones\obj\Debug\net7.0\ref\EscuelaApp.dll
